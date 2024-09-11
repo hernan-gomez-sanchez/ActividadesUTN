@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\data\\iproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\data\\iproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\actividad1_5\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\domain\\detallafactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\domain\\detallafactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\domain\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\domain\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\data\\ifacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\data\\ifacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\data\\facturarepositorioado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\data\\facturarepositorioado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\data\\utils\\parametrosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\data\\utils\\parametrosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\data\\productorepositorioado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\data\\productorepositorioado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\services\\facturasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\services\\facturasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|c:\\users\\hernan\\documents\\github\\actividadesutn\\actividad1_5\\actividad1_5\\actividad1_5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{590D620A-F8C3-4C4A-9138-5DCC029FDD70}|Actividad1_5\\Actividad1_5.csproj|solutionrelative:actividad1_5\\actividad1_5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Actividad1_5\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwD8AAADHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:57:16.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Services\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Services\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Services\\ProductManager.cs",
+              "RelativeToolTip": "Actividad1_5\\Services\\ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:53:18.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FacturasManager.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Services\\FacturasManager.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Services\\FacturasManager.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Services\\FacturasManager.cs",
+              "RelativeToolTip": "Actividad1_5\\Services\\FacturasManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:47:20.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\IProductoRepositorio.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Data\\IProductoRepositorio.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\IProductoRepositorio.cs",
+              "RelativeToolTip": "Actividad1_5\\Data\\IProductoRepositorio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:46:34.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParametroSQL.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\Utils\\ParametroSQL.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Data\\Utils\\ParametroSQL.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\Utils\\ParametroSQL.cs",
+              "RelativeToolTip": "Actividad1_5\\Data\\Utils\\ParametroSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:35:03.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Actividad1_5",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Actividad1_5.csproj",
+              "RelativeDocumentMoniker": "Actividad1_5\\Actividad1_5.csproj",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Actividad1_5.csproj",
+              "RelativeToolTip": "Actividad1_5\\Actividad1_5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T16:33:54.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Data\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Actividad1_5\\Data\\Utils\\DataHelper.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwDoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:31:15.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetallaFactura.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Domain\\DetallaFactura.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Domain\\DetallaFactura.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Domain\\DetallaFactura.cs",
+              "RelativeToolTip": "Actividad1_5\\Domain\\DetallaFactura.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:28:31.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MetodoPago.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Domain\\MetodoPago.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Domain\\MetodoPago.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Domain\\MetodoPago.cs",
+              "RelativeToolTip": "Actividad1_5\\Domain\\MetodoPago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:27:44.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Program.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Program.cs",
+              "RelativeToolTip": "Actividad1_5\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:20:23.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoRepositorioADO.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\ProductoRepositorioADO.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Data\\ProductoRepositorioADO.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\ProductoRepositorioADO.cs",
+              "RelativeToolTip": "Actividad1_5\\Data\\ProductoRepositorioADO.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAEwDcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:48:34.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFacturaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\IFacturaRepositorio.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Data\\IFacturaRepositorio.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\IFacturaRepositorio.cs",
+              "RelativeToolTip": "Actividad1_5\\Data\\IFacturaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:36:20.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FacturaRepositorioADO.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\FacturaRepositorioADO.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Data\\FacturaRepositorioADO.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Data\\FacturaRepositorioADO.cs",
+              "RelativeToolTip": "Actividad1_5\\Data\\FacturaRepositorioADO.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAhwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:38:49.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Domain\\Factura.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Domain\\Factura.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Domain\\Factura.cs",
+              "RelativeToolTip": "Actividad1_5\\Domain\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:25:05.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Actividad1_5\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Properties\\Resources.resx",
+              "RelativeToolTip": "Actividad1_5\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-03T17:05:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "Actividad1_5\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\hernan\\Documents\\GitHub\\ActividadesUTN\\Actividad1_5\\Actividad1_5\\Domain\\Product.cs",
+              "RelativeToolTip": "Actividad1_5\\Domain\\Product.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:21:48.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
